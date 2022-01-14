@@ -1,1 +1,2 @@
 # SCMS737001_RRTstar-Planning
+This repositories is the solution to the final exam of SCMS737001. First question solution using the code for the pinhole. py, from https://github.com/cong/2Dto3D; The second question using RRT * algorithm for dynamic path planning, mainly code comes from the https://github.com/barrowsb/ese-650-rrt-star , including tree. py is used to generate random tree, main. py for simulations, The resulting file is animation_rrt_star.gif.
